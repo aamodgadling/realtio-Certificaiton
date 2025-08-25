@@ -10,11 +10,32 @@ explanation :-Reltio’s velocity packs are tailored solutions designed to accel
 
 
 Que:- Which of the following areas are reduced by using out-of-the-box prebuilt components provided by Reltio Data Cloud? Select all that apply.
-Configuration efforts
-Implementation time
-Data modeling
-Data Tenants
+    Configuration efforts
+    Implementation time
+    Data modeling
+[X] Data Tenants
 Ans:- all except Data Tenant. 
+
+Que:- Which of the following statements about FERN are true? Select all that apply.
+    FERN is a secure, AI-driven matching engine that taps into the power of Large Language Models (LLM) pretrained for entity resolution.
+    FERN brings semantic understanding to unifying customer data at scale with higher productivity and match accuracy, working seamlessly alongside rule-based matching and manual matching methods.
+[X] FERN LLMs are trained on manually matching small volumes of text data.
+    FERN can find matches previously impossible or impractical to find with rules or manual review alone.
+Ans:-The true statements about FERN are:
+FERN is a secure, AI-driven matching engine that taps into the power of Large Language Models (LLM) pretrained for entity resolution.
+FERN brings semantic understanding to unifying customer data at scale with higher productivity and match accuracy, working seamlessly alongside rule-based matching and manual matching methods.
+FERN can find matches previously impossible or impractical to find with rules or manual review alone.
+
+Que:-Which of the following statements about the real-time API are true? Select all that apply.
+[X] Real-Time API increases time-to-action.
+    All operations, data-in, data-out, and client interactions are available via API and many via the User Interface (UI).
+    Reltio’s API-first approach is a marketing differentiator.
+    API allows real-time operating at scale, improves user experience, provides flexibility, and drives innovation.
+Ans:- all except The false statement: Real-Time API increases time-to-action.
+
+
+
+
 
 
 
